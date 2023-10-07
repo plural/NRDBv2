@@ -12,6 +12,7 @@ export default class PrintingModel extends Model {
   @attr illustratorIds;
   @attr illustratorNames;
   @attr position;
+  @attr positionInSet;
   @attr quantity;
   @attr dateRelease;
   @attr images;
